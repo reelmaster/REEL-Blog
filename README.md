@@ -1,2 +1,1 @@
-# REEL-Blog
-REEL-Blog
+# REEL
