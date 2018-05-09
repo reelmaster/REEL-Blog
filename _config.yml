@@ -13,10 +13,12 @@ baseurl: "REEL-Blog"
 use_logo: true
 
 # logo image to use. logo images are constrained at 50px in height.
-logo: http://reel.hansung.ac.kr/reel/img/maintop.png
+logo: "http://reel.hansung.ac.kr/reel/img/maintop.png"
 
 # use text title instead. text title read from uistring.title in ui strings section.
 use_text_title: false
+
+cover: "http://reel.hansung.ac.kr/reel/img/mainlogo.png"
 
 # Build settings
 markdown: kramdown
