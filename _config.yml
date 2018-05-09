@@ -9,6 +9,8 @@ github_username:  reelmaster
 url: "https://reelmaster.github.io"
 baseurl: "REEL-Blog"
 
+
+
 # use a logo image in your nav bar.
 use_logo: true
 
@@ -24,5 +26,12 @@ cover: "http://reel.hansung.ac.kr/reel/img/mainlogo.png"
 markdown: kramdown
 theme: minima
 
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-mentions
+  - jekyll-redirect-from
 
 
