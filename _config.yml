@@ -6,6 +6,12 @@ description: Robots in Education &Entertaiment Lab
 twitter_username: reelmaster
 github_username:  reelmaster
 
+url: "https://reelmaster.github.io"
+baseurl: "REEL-Blog"
+
 # Build settings
 markdown: kramdown
 theme: minima
+
+
+
